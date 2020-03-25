@@ -13,4 +13,4 @@ target-learning and multi-dimension body modeling tasks. This results imply R-FO
 other state-of-art methods in terms of mean absolute error and confidence interval simultaneously. 
 
 ## Predicted Modeling Video
-![Predicted Modeling Video]()
+![Predicted Modeling Video](deepSquat.gif)
