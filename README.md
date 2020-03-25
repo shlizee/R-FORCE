@@ -4,7 +4,7 @@ This repository contains the python and matlab code of implementing R-FORCE
 
 ## Abstract
 We present a new initialization method for First Order Reduced and Controlled
-Error (FORCE)(https://www.sciencedirect.com/science/article/pii/S0896627309005479) to
+Error [(FORCE)](https://www.sciencedirect.com/science/article/pii/S0896627309005479) to
 achieve more robust performance to chaos. FORCE learning performs well only in a narrow
 range of chaos, but we want to explore whether there exists alternative initialization
 method which can make FORCE more robust. In this paper, we demonstrate how to generate 
