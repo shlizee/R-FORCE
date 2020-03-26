@@ -14,3 +14,12 @@ other state-of-art methods in terms of mean absolute error and confidence interv
 
 ## Predicted Modeling Video
 ![Predicted Modeling Video](deepSquat.gif)
+
+## Training Instructions for One-dimension target funcion
+* Run main.m for training, testing and plotting
+
+## Training Instruction for multi-dimension body modeling
+*
+## Citation
+
+## License
