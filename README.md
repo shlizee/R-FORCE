@@ -19,7 +19,7 @@ other state-of-art methods in terms of mean absolute error and confidence interv
 * Run main.m for training, testing and plotting
 
 ## Training Instruction for multi-dimension body modeling
-* We posted the original movement data(xxx.mat) and augement data(xxxPeriod.mat) under [**data**](data)
+* We posted the original movement data(xxx.mat) and augment data(xxxPeriod.mat) in [**data**](data)
 * Run mainRFORCEMovementSimulation.m for training and testing. The testing simulation result and
   ground truth is saved as Simulation_skel and skel, respectively.
 * We also included a trained model and simulation results for deep squat inside [**result**](result)
