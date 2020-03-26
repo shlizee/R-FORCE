@@ -12,7 +12,7 @@ We present a new initialization method for First Order Reduced and Controlled Er
 * Run main.m for training, testing and plotting
 
 ## Training Instruction for multi-dimension body modeling
-* We posted the original movement data(xxx.mat) and augment data(xxxPeriod.mat) in [**data**](data)
+* We used training data from [UI-PRMD](https://webpages.uidaho.edu/ui-prmd/). In [**data**](data), we posted some of the original movement data(xxx.mat) and augmented data(xxxPeriod.mat).
 * Run mainRFORCEMovementSimulation.m for training and testing. The testing simulation result and
   ground truth is saved as Simulation_skel and skel, respectively.
 * We also included a trained model and simulation results for deep squat inside [**result**](result)
